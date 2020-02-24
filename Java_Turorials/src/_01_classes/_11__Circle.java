@@ -1,6 +1,6 @@
 package _01_classes;
 
-public class _11_Circle {
+public class _11__Circle {
 	
 	/*
 	 * Each of these files has one method that calls two other methods to print out each shape.

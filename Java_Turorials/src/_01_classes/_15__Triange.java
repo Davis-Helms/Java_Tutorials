@@ -1,6 +1,6 @@
 package _01_classes;
 
-public class _15_Triange {
+public class _15__Triange {
 	
 	/*
 	 * Each of these files has one method that calls two other methods to print out each shape.

@@ -12,13 +12,13 @@ public class _00_Main {
 		 *      <className>.<classVariable>
 		 */
 		
-		_11_Circle.circle();
+		_11__Circle.circle();
 		//className.classMethod();
 		
-		_12_Diamond.diamond();
-		_13_Square.square();
-		_14_Star.star();
-		_15_Triange.triangle();
+		_12__Diamond.diamond();
+		_13__Square.square();
+		_14__Star.star();
+		_15__Triange.triangle();
 
 	}
 
