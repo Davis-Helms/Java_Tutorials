@@ -12,7 +12,7 @@ public class _01_Objects_Intro {
 		 * By making an object it allows you to use the variables and have multiple objects with different values in their variables.
 		 */
 		
-		_001_Circle circle = new _001_Circle();
+		_11_Circle circle = new _11_Circle();
 		
 		circle.circle();
 		
@@ -24,8 +24,8 @@ public class _01_Objects_Intro {
 		
 		// Multiple objects of the same class allow for lots of possibilities.
 		
-		_002_Diamond diamond1 = new _002_Diamond();
-		_002_Diamond diamond2 = new _002_Diamond();
+		_12_Diamond diamond1 = new _12_Diamond();
+		_12_Diamond diamond2 = new _12_Diamond();
 		
 		diamond1.diamond();
 		

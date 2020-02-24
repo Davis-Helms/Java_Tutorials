@@ -1,6 +1,6 @@
 package _01_classes;
 
-public class _003_Square {
+public class _13_Square {
 	
 	/*
 	 * Each of these files has one method that calls two other methods to print out each shape.
