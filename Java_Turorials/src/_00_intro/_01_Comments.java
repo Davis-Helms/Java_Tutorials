@@ -1,6 +1,6 @@
-package basics;
+package _00_intro;
 
-public class _001_Comments {
+public class _01_Comments {
 
 	public static void main(String[] args) {
 		

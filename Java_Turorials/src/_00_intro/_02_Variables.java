@@ -1,7 +1,8 @@
-package basics;
+package _00_intro;
 
-public class _002_Variables {
+public class _02_Variables {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		// Smallest to largest

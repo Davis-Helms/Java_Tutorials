@@ -1,7 +1,8 @@
-package basics;
+package _00_intro;
 
-public class _003_Arrays {
+public class _03_Arrays {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		// Arrays are like a list of variables

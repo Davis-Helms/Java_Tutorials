@@ -1,6 +1,6 @@
-package basics;
+package _00_intro;
 
-public class _000_Printing {
+public class _00_Printing {
 
 	public static void main(String[] args) {
 		

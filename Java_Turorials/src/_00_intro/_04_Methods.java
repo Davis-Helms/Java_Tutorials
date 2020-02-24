@@ -1,12 +1,11 @@
-package basics;
+package _00_intro;
 
-public class _004_Methods {
+public class _04_Methods {
 	
 	/*
 	 * Methods allow you to store code in one place then use it without rewriting the code.
-	 * 
 	 * You can have as many methods as you want and call them as many times as you want
-	 * 
+	 * They can have inputs and outputs so they can change based on what input you feed into it.
 	 */
 	
 	
